@@ -1,2 +1,2 @@
-#Gigachat
+## Gigachat
 An AI chatbot
