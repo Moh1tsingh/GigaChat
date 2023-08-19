@@ -6,7 +6,19 @@ function App()
   return (
 		<>
 			<div>
-				hello
+					<div class="main">
+						<div class="chatbox">
+
+								<div class="messagebox">
+
+								</div>
+								<div class="inputbox">
+									<input type="text"></input>
+									<button>Send</button>
+								</div>
+
+						</div>
+				</div>
 			</div>
 		</>
   )
