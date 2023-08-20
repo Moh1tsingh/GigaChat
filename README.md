@@ -1,2 +1,0 @@
-## Gigachat
-An AI chatbot
