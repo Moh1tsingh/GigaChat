@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+.end
+{
+	height:0;
+	width:0;
+	padding:0;
+}
 
 .main{
     margin: 0;
@@ -105,8 +111,6 @@ li
 	padding:10px 25px;
 	box-sizing:border-box;
 	border-radius:50px;
-	width:min-content;
-	max-width:50%;
 	overflow-wrap:break-word;
 }
 .messagebox > ul
@@ -123,9 +127,11 @@ li
 {
 	align-self:flex-end;
 	border-bottom-right-radius:0;
+	margin-left:25%;
 }
 .outmessage
 {
 	align-self:flex-start;
 	border-top-left-radius:0;
+	margin-right:25%;
 }
