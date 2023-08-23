@@ -12,7 +12,7 @@ function App()
 	[message,setMessage]=useState([]);
 	[messageList,setMessageList]=useState();
 	useEffect(()=>{
-		let t=document.querySelector(".end")
+		let t:any=document.querySelector(".end")
 		t.scrollIntoView()
 		})
 	function SendMessage()
